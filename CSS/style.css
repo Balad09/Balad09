@@ -144,7 +144,7 @@ span {
 .btn {
     display: inline-block;
     padding: 1rem 2.8rem;
-    background: var(--main-color);
+    background: var(--other-color);
     border-radius: 4rem;
     box-shadow: 0 0 1rem var(--main-color);
     font-size: 1.6rem;
@@ -515,6 +515,6 @@ span {
 
     .footer p {
         text-align: center;
-        marin-top: 2rem;
+        margin-top: 2rem;
     }
 }
